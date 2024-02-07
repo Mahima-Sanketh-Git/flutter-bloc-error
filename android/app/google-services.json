@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074918406002",
+    "project_id": "bloc-x-firebase-66955",
+    "storage_bucket": "bloc-x-firebase-66955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074918406002:android:411a7e49d7d1627b478feb",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAW9FdVHBJl8mEsKHXPbVeXPmmOHYVWNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
